@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop Gamer ASUS ROG",
+    "descripcion": "Laptop de alto rendimiento con procesador Intel i7, 16GB RAM y RTX 3060.",
+    "precio": 1800,
+    "imagen": "../img/asusROG.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Smartphone Samsung Galaxy S23",
+    "descripcion": "Pantalla AMOLED de 6.8 pulgadas, cámara triple de 50MP y 256GB de almacenamiento.",
+    "precio": 1200,
+    "imagen": "../img/S25ULTRA.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Auriculares Inalámbricos Sony WH-1000XM5",
+    "descripcion": "Auriculares con cancelación de ruido, hasta 30 horas de batería y audio Hi-Res.",
+    "precio": 400,
+    "imagen": "../img/auricularesSony_.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Monitor LG UltraGear 27''",
+    "descripcion": "Monitor gaming con 165Hz de refresco, 1ms de respuesta y resolución QHD.",
+    "precio": 450,
+    "imagen": "../img/monitor.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Teclado Mecánico Logitech G915",
+    "descripcion": "Teclado inalámbrico mecánico con retroiluminación RGB y switches low-profile.",
+    "precio": 250,
+    "imagen": "../img/Teclado.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Mouse Razer DeathAdder V2",
+    "descripcion": "Mouse ergonómico para gamers con sensor óptico de 20,000 DPI.",
+    "precio": 70,
+    "imagen": "../img/mouse.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Smartwatch Apple Watch Series 9",
+    "descripcion": "Reloj inteligente con monitoreo de salud, GPS integrado y pantalla Retina.",
+    "precio": 500,
+    "imagen": "../img/aplleWatch.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Tablet iPad Pro 11''",
+    "descripcion": "Pantalla Liquid Retina, chip M2 y compatibilidad con Apple Pencil 2.",
+    "precio": 1000,
+    "imagen": "../img/ipad.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Consola PlayStation 5",
+    "descripcion": "Nueva generación de consolas con SSD ultrarrápido y gráficos en 4K.",
+    "precio": 750,
+    "imagen": "../img/play5.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Cámara GoPro HERO11",
+    "descripcion": "Cámara de acción 5.3K con estabilización HyperSmooth y resistencia al agua.",
+    "precio": 450,
+    "imagen": "../img/gopro.jpg"
+  }
+]
